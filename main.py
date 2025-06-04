@@ -1,1 +1,1 @@
-print("Hola como estás")
+print("¿Has tenido un buen día?")
